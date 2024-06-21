@@ -8,8 +8,8 @@ In order to accomplish such an objective it has been used a Transformer, very po
 ## Implementation Details
 
 ### DUMP_ENABLE
-"""python
-DUMP_ENABLE = True
-"""
-    Simple Boolean variable helpful in understanding which portion of code need to be executed.
+
+    DUMP_ENABLE = True
+
+Simple Boolean variable helpful in understanding which portion of code need to be executed.
 ### Weights
